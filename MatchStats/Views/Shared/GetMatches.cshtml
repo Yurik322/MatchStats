@@ -1,0 +1,10 @@
+﻿@model Dictionary<string,int>
+@{
+}
+
+<ul>
+    @foreach(var l in Model)
+    {
+        <li>@l.Key || @l.Value</li>
+    }
+</ul>

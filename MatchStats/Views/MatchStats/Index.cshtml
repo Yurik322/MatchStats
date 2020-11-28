@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="text-center">Football matches statistics</h1>
+<br />
+<div class="accordion" id="accordion">
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    Premier League 2019/20
+                </button>
+            </h5>
+        </div>
+        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+                <h3 class="card-title text-center">Premier League 2019/20</h3>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@await Component.InvokeAsync("BestAttack", "en.1.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDefense", "en.1.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDifference", "en.1.json")</li>
+            </ul>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Championship 2019/20
+                </button>
+            </h5>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+            <div class="card-body">
+                <h3 class="card-title text-center">Championship 2019/20</h3>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@await Component.InvokeAsync("BestAttack", "en.2.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDefense", "en.2.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDifference", "en.2.json")</li>
+            </ul>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingThree">
+            <h5 class="mb-0">
+                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    League One 2019/20
+                </button>
+            </h5>
+        </div>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+            <div class="card-body">
+                <h3 class="card-title text-center">League One 2019/20</h3>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@await Component.InvokeAsync("BestAttack", "en.3.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDefense", "en.3.json")</li>
+                <li class="list-group-item">@await Component.InvokeAsync("BestDifference", "en.3.json")</li>
+            </ul>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingFour">
+            <h5 class="mb-0">
+                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    The most scoring day in all leagues
+                </button>
+            </h5>
+        </div>
+        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+            <div class="card-body">
+                <h3 class="card-title text-center">The most scoring day in all leagues</h3>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@await Component.InvokeAsync("MostScoringDay")</li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,685 @@
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Index.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\PremierLeague.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Championship.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\LeagueOne.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Index.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+E:\MY PROGRAMS\ЗАВАНТАЖЕННЯ\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\SeparateMatchStatistics\ForEachTeam.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Index.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\SeparateMatchStatistics\ForEachTeam.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+D:\С#\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Index.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\SeparateMatchStatistics\ForEachTeam.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+E:\MY PROGRAMS\Projects\C#\MatchStats1\MatchStats\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.1.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.2.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\en.3.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.exe
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.deps.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.runtimeconfig.dev.json
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csprojAssemblyReference.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfoInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.AssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CoreCompileInputs.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.MvcApplicationPartsAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.input.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.TagHelpers.output.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorCoreGenerate.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GetMatches.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.RazorTargetAssemblyInfo.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.Views.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.csproj.CopyComplete
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.Manifest.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\staticwebassets\MatchStats.StaticWebAssets.xml
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.dll
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.pdb
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\MatchStats.genruntimeconfig.cache
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\Razor\Views\MatchStats\Index.cshtml.g.cs
+E:\MY PROGRAMS\Projects\C#\MatchStats\MatchStats\obj\Debug\netcoreapp3.1\scopedcss\bundle\MatchStats.styles.css
